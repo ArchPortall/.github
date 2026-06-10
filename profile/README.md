@@ -144,3 +144,7 @@ The complete platform was deployed and hosted during development and testing on 
 # 🚀 Project Goal
 
 The goal of ArchPortal was to simulate the development of a production-scale software platform while applying software architecture principles, domain-driven design concepts, full-stack development practices, DevOps workflows, and collaborative agile development.
+
+## 🎥 Demo Video
+
+[Watch the demo on YouTube](https://youtu.be/vIcJKvguFF8)
