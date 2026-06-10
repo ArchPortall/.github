@@ -1,10 +1,10 @@
-# 🌌 ArchPortal
+# ArchPortal
 
 ArchPortal is a Steam-inspired web gaming platform developed as part of our third and final year integration project at KdG University.
 
 Built over the course of 8 weeks by a team of four students, the platform was designed to provide a complete multiplayer gaming ecosystem with social features, game integrations, authentication, analytics, and a modern web experience.
 
-## 👥 Team
+## Team
 - Pieter Neyt
 - Axel Peeters
 - Cian Van Acker
@@ -12,7 +12,7 @@ Built over the course of 8 weeks by a team of four students, the platform was de
 
 ---
 
-# 🏗️ Architecture
+# Architecture
 
 ArchPortal was built using a modular monolith architecture with Spring Modulith, allowing us to separate the application into multiple bounded contexts while maintaining a single deployable system.
 
@@ -33,9 +33,9 @@ ArchPortal was built using a modular monolith architecture with Spring Modulith,
 
 ---
 
-# ✨ Features
+# Features
 
-## 🎮 Gaming Platform
+## Gaming Platform
 - Fully functional Steam-inspired platform
 - Integrated game management
 - Game studio management
@@ -44,7 +44,7 @@ ArchPortal was built using a modular monolith architecture with Spring Modulith,
 
 ---
 
-## 🕹️ Multiplayer Games
+## Multiplayer Games
 
 Two fully custom-built multiplayer games:
 - Tic Tac Toe
@@ -58,14 +58,14 @@ Features included:
 
 ---
 
-## 🔗 External Game Integration
+## External Game Integration
 - Anti-corruption layer for integrating external games
 - Decoupled communication between platform and games
 - Expandable integration architecture
 
 ---
 
-# 👤 User & Social Features
+# User & Social Features
 
 ## Friends System
 - Send friend requests
@@ -90,27 +90,27 @@ Features included:
 
 ---
 
-# 🏆 Achievement System
+# Achievement System
 - Games can define achievements
 - Games can notify the platform when a player unlocks achievements
 - Users can view unlocked achievements on their profiles
 
 ---
 
-# 📰 Game Updates
+# Game Updates
 - Game studios can publish updates
 - Users can view game update posts
 
 ---
 
-# 🪙 Point Shop System
+# Point Shop System
 - Earn points through purchases
 - Spend points on platform-related rewards
 - Unlock platform perks and benefits
 
 ---
 
-# 📊 Analytics
+# Analytics
 - Track game winners
 - Track total playtime
 - Track playtime per game
@@ -119,14 +119,14 @@ Features included:
 
 ---
 
-# 🔐 Security
+# Security
 - Authentication and authorization handled using Keycloak
 - Secure platform-wide identity management
 - Protected APIs and secured communication
 
 ---
 
-# ⚙️ Infrastructure & Deployment
+# Infrastructure & Deployment
 
 Every component of the platform was containerized using Docker and automatically built through CI/CD pipelines.
 
@@ -134,11 +134,10 @@ The complete platform was deployed and hosted during development and testing on 
 
 ---
 
-# 🌌 UI & Experience
+# UI & Experience
 - Modern dark-themed interface
 - Animated starry background
 - Responsive web experience
-- Real-time interactions using WebSockets
 
 ---
 
